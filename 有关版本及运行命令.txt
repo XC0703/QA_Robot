@@ -1,0 +1,17 @@
+有关版本：
+Python 3.7.15
+tensorflow 2.3.0
+Keras 2.4.3
+jieba 0.42.1
+numpy 1.19.5
+
+
+
+//训练（电脑配置不高时，建议在云GPU进行训练）
+python main.py -m train
+
+
+
+//闲聊
+python main.py
+
