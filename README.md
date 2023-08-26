@@ -1,14 +1,16 @@
 # QA_Robot
 
 #### 介绍
+
 本项目是大三上自然语言处理课程项目，基于seq2seq模型，实现简易的对话机器人效果。
 
 #### 参考资料
-[https://blog.csdn.net/A451173299/article/details/127836183
 
-[https://blog.csdn.net/jack_jmsking/article/details/82994424
+https://blog.csdn.net/A451173299/article/details/127836183
 
-[https://blog.csdn.net/Icarus_/article/details/122118415
+https://blog.csdn.net/jack_jmsking/article/details/82994424
+
+https://blog.csdn.net/Icarus_/article/details/122118415
 
 #### 安装教程
 
